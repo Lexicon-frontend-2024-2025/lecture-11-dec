@@ -6,9 +6,7 @@ Tema: Grid
 
 ## Dagens schema:
 
-- Kl 10
-
-* Genomgång av Grid och code-a-long samt frågestund.
+- Kl 10: Genomgång av Grid och code-a-long samt frågestund.
 
 ## LUNCH 12.00 till 13.00.
 
